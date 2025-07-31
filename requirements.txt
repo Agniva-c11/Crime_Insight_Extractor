@@ -1,0 +1,9 @@
+faster-whisper
+transformers
+torch
+googletrans==4.0.0-rc1
+streamlit
+pydub
+ffmpeg-python
+deep-translator
+langdetect
