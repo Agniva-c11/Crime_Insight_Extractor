@@ -28,15 +28,15 @@ The application follows these steps:
 ## Setup Instruction
 
 ### 1. Clone the repository
-git clone https://github.com/your-username/police-call-analytics.git
-cd police-call-analytics
+- git clone https://github.com/Agniva-c11/Crime_Insight_Extractor
+- cd Crime_Insight_Extractor
 
 ### 2. Create and Activate Virtual Environment
-python3 -m venv venv
-source venv/bin/activate        # For Windows: venv\Scripts\activate
+- python3 -m venv venv
+- source venv/bin/activate        # For Windows: venv\Scripts\activate
 
 ### 3. Install required dependencies
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 ### 4. Run the app
-Streamlit run app.py
+- streamlit run app.py
